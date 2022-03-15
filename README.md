@@ -13,7 +13,7 @@ I've even had many news organizations write about some of the projects my collea
 
 As of right now, I'm currently studying towards a Bachelors in Computer Science however am highly interested in growing my knowledge through more projects, internships and positions. If you're interested in more, feel free to check out my blog posts and reach out!
 
-* [Personal Blog](khronokernel@github.io)
+* [Personal Blog](khronokernel.github.io)
 * [Linkedin](https://www.linkedin.com/in/mykola-grymalyuk-0411b3143/)
 * Email: khronokernel@icloud.com
 
