@@ -8,12 +8,13 @@ I've even had many news organizations write about some of the projects my collea
 
 * [CNET: Apple's new Mac Mini is killing my Hackintosh](https://www.cnet.com/news/apple-new-m1-mac-mini-is-killing-my-hackintosh/)
 * [Ars Technica: Apple may be done with Intel Macs, but Hackintoshes can still use the newest CPUs](https://arstechnica.com/gadgets/2022/01/apple-may-be-done-with-intel-macs-but-hackintoshes-can-still-use-the-newest-cpus/)
+* [Ars Technica: Devs are making progress getting macOS Ventura to run on unsupported, decade-old Macs](https://arstechnica.com/gadgets/2022/08/running-macos-ventura-on-old-macs-isnt-easy-but-some-devs-are-making-progress/)
 * [MacRumors: run macOS on an iPad through a virtual Hackintosh](https://9to5mac.com/2021/01/21/ipad-running-macos-virtual-hackintosh/)
 * [Lifehacker: Install the Latest macOS on an Unsupported Mac](https://www.lifehacker.com.au/2021/10/how-to-install-the-latest-macos-on-an-unsupported-mac/)
 
 As of right now, I'm currently studying towards a Bachelors in Computer Science however am highly interested in growing my knowledge through more projects, internships and positions. If you're interested in more, feel free to check out my blog posts and reach out!
 
-* [Personal Blog](khronokernel.github.io)
+* [Personal Blog](https://khronokernel.github.io)
 * [Linkedin](https://www.linkedin.com/in/mykola-grymalyuk-0411b3143/)
 * Email: khronokernel@icloud.com
 
