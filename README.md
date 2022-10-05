@@ -11,6 +11,7 @@ I've even had many news organizations write about some of the projects my collea
 * [Ars Technica: Devs are making progress getting macOS Ventura to run on unsupported, decade-old Macs](https://arstechnica.com/gadgets/2022/08/running-macos-ventura-on-old-macs-isnt-easy-but-some-devs-are-making-progress/)
 * [MacRumors: run macOS on an iPad through a virtual Hackintosh](https://9to5mac.com/2021/01/21/ipad-running-macos-virtual-hackintosh/)
 * [Lifehacker: Install the Latest macOS on an Unsupported Mac](https://www.lifehacker.com.au/2021/10/how-to-install-the-latest-macos-on-an-unsupported-mac/)
+* [Intego: How to Install macOS Monterey on Unsupported Macs, for Security Improvements](https://www.intego.com/mac-security-blog/how-to-keep-older-macs-secure-a-geeky-approach/)
 
 As of right now, I'm currently studying towards a Bachelors in Computer Science however am highly interested in growing my knowledge through more projects, internships and positions. If you're interested in more, feel free to check out my blog posts and reach out!
 
