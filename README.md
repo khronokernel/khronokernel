@@ -2,7 +2,7 @@ Hello!
 
 My name is Mykola Grymalyuk, I am a Ukrainian software developer and enthusiast about macOS and breaking things!
 
-For those unfamiliar with me, some of the more recognizable projects I've worked on include [supporting 15+ year old Mac hardware running the latest macOS versions](https://github.com/dortania/OpenCore-Legacy-Patcher/), [running macOS on an iPad through a virtual machine](https://khronokernel.github.io/apple/silicon/2021/01/17/QEMU-AS.html) as well as [heavily documenting the Hackintosh process](https://dortania.github.io/OpenCore-Install-Guide/). I'm extremely passionate about reverse engineering macOS, developing patches for the community, as well as learning new sections of the field.
+For those unfamiliar with me, some of the more recognizable projects I've worked on include [supporting 16+ year old Mac hardware running the latest macOS versions](https://github.com/dortania/OpenCore-Legacy-Patcher/), [running macOS on an iPad through a virtual machine](https://khronokernel.github.io/apple/silicon/2021/01/17/QEMU-AS.html) as well as [heavily documenting the Hackintosh process](https://dortania.github.io/OpenCore-Install-Guide/). I'm extremely passionate about reverse engineering macOS, developing patches for the community, as well as learning new sections of the field.
 
 I've even had many news organizations write about some of the projects my colleagues and I have dedicated ourselves to:
 
@@ -19,6 +19,7 @@ As of right now, I'm currently studying towards a Bachelors in Computer Science 
 * [Linkedin](https://www.linkedin.com/in/mykola-grymalyuk-0411b3143/)
 * Email: khronokernel@icloud.com
 
+Note: Please don't use my personal contact info for support, see respective repository issues/forums for support. Support requests will be ignored.
 
 <p><img align="left" src="https://api.githubtrends.io/user/svg/khronokernel/langs?time_range=one_year&loc_metric=changed&theme=dark" alt="Devesh-19" /></p>
 <p>&nbsp;<img align="center" src="https://api.githubtrends.io/user/svg/khronokernel/repos?time_range=one_year&loc_metric=changed&theme=dark" alt="Devesh-19" /></p>
