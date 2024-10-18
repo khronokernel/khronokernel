@@ -2,7 +2,7 @@ Hello!
 
 My name is Mykola Grymalyuk, I am a Ukrainian software developer and enthusiast about macOS and breaking things!
 
-For those unfamiliar with me, some of the more recognizable projects I've worked on include [supporting 15+ year old Mac hardware running the latest macOS versions](https://github.com/dortania/OpenCore-Legacy-Patcher/), [running macOS on an iPad through a virtual machine](https://khronokernel.github.io/apple/silicon/2021/01/17/QEMU-AS.html) as well as [heavily documenting the Hackintosh process](https://dortania.github.io/OpenCore-Install-Guide/). I'm extremely passionate about reverse engineering macOS, developing patches for the community, as well as learning new sections of the field.
+For those unfamiliar with me, some of the more recognizable projects I've worked on include [supporting 17+ year old Mac hardware running the latest macOS versions](https://github.com/dortania/OpenCore-Legacy-Patcher/), [running macOS on an iPad through a virtual machine](https://khronokernel.github.io/apple/silicon/2021/01/17/QEMU-AS.html) as well as [heavily documenting the Hackintosh process](https://dortania.github.io/OpenCore-Install-Guide/). I'm extremely passionate about reverse engineering macOS, developing patches for the community, and vulnerability research for macOS applications
 
 I've even had many news organizations write about some of the projects my colleagues and I have dedicated ourselves to:
 
@@ -14,4 +14,4 @@ I've even had many news organizations write about some of the projects my collea
 * [Intego: How to Install macOS Ventura on Unsupported Macs, for Security Improvements](https://www.intego.com/mac-security-blog/how-to-keep-older-macs-secure-a-geeky-approach/)
 
 For more nitty gritty details, I post my research related to macOS reversing and patching here:
-* [Personal Blog](https://khronokernel.github.io)
+* [Personal Blog](https://khronokernel.com)
